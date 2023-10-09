@@ -1,6 +1,6 @@
 # MMP Voting System
 
-The Mixed Member Proportional (MMP) voting system is a mixed electoral system where votes are cast for both individual candidates in local elections and for political parties, aiming to achieve a proportional representation in the legislature based on the party votes.
+The *Mixed Member Proportional* (MMP) voting system is a mixed electoral system where votes are cast for both individual candidates in local elections and for political parties, aiming to achieve a proportional representation in the legislature based on the party votes.
 
 ![Image](https://www.parliament.nz/media/3060/2014-mmp-images.jpg)
 
