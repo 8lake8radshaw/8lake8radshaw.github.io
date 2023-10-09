@@ -18,6 +18,9 @@ The main goal of MMP is to achieve a proportional representation wherein the pro
 The party votes are tallied, and additional seats are allocated to parties to correct any disproportionality caused by the local elections. This is done by comparing the proportion of seats a party has won through the local elections to the proportion of the party vote it received. If a party has won fewer seats than its proportion of the party vote entitles it to, it is allotted additional seats from its party list until the proportionality is corrected​2​.
 
 ## Usage in New Zealand: 
+
+![Image](https://i.guim.co.uk/img/media/4ec0e2e77f5985d2967b31752184258371d4df55/0_165_3600_2160/master/3600.jpg?width=700&dpr=2&s=none)
+
 MMP is notably used in New Zealand, where it was introduced following a binding referendum in 1993 and first utilized in the 1996 election. Under New Zealand's MMP system, the parliament has 120 seats, and political parties compete to win as many of these seats as they can during an election​3​​4​.
 
 ## See also
