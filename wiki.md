@@ -1,6 +1,6 @@
-# Topic Title
+# MMP Voting System
 
-![Image](url-for-an-image-about-your-topic)
+![Image](https://www.parliament.nz/media/3060/2014-mmp-images.jpg)
 
 A short description or abstract of the topic you chose. Feel free to use **bold** and *italic* fonts, [linked texts](url), ![images](url), or any other elements that would help your audience understand the topic.
 
